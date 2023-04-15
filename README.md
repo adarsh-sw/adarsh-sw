@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@adarsh_vyas)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Adarsh_Vyas)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://www.canva.com/design/DAFgLQJocjE/n6kmxtl8U6ujbFuc67DDTg/edit?utm_content=DAFgLQJocjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
 
 **Talking about Personal Stuffs:**
 
