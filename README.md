@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://github.com/adarsh-sw/adarsh-sw/blob/main/assets/cloud_devops.gif?raw=true" width="300" height="300"/>
 ### <samp>&gt; Hi there, I'm Adarsh Vyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adarsh-vyas)
@@ -6,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@adarsh_vyas)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Adarsh_Vyas)
 
-<img align="right" alt="GIF" src="https://github.com/adarsh-sw/adarsh-sw/blob/main/assets/cloud_devops.gif?raw=true" width="300" height="300" />
+
 
 **Talking about Personal Stuffs:**
 
