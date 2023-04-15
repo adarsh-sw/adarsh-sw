@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://github.com/adarsh-sw/adarsh-sw/blob/main/assets/cloud_devops.gif?raw=true" width="300" height="300"/>
-### <samp>&gt; Hi there, I'm Adarsh Vyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+### <samp>&gt; Hi there, I'm Adarsh Vyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<img align="right" alt="GIF" src="https://github.com/adarsh-sw/adarsh-sw/blob/main/assets/cloud_devops.gif?raw=true" width="300" height="300"/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adarsh-vyas)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adarshvyas99)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adarshvyas99/)
